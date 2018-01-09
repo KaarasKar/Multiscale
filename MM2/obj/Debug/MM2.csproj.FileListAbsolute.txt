@@ -1,0 +1,48 @@
+D:\AGH\1_ZAJEC_MGR\II_SEMESTR\Multiscale_modeling\Laborki\Multiscale_Reprot2\MM2\bin\Debug\MultiscaleModelling1.exe.config
+D:\AGH\1_ZAJEC_MGR\II_SEMESTR\Multiscale_modeling\Laborki\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.exe
+D:\AGH\1_ZAJEC_MGR\II_SEMESTR\Multiscale_modeling\Laborki\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.pdb
+D:\AGH\1_ZAJEC_MGR\II_SEMESTR\Multiscale_modeling\Laborki\Multiscale_Reprot2\MM2\bin\Debug\MultiscaleModelling1.exe
+D:\AGH\1_ZAJEC_MGR\II_SEMESTR\Multiscale_modeling\Laborki\Multiscale_Reprot2\MM2\bin\Debug\MultiscaleModelling1.pdb
+D:\AGH\1_ZAJEC_MGR\II_SEMESTR\Multiscale_modeling\Laborki\Multiscale_Reprot2\MM2\obj\Debug\MM2.csprojResolveAssemblyReference.cache
+D:\AGH\1_ZAJEC_MGR\II_SEMESTR\Multiscale_modeling\Laborki\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.MultiscaleModelling.resources
+D:\AGH\1_ZAJEC_MGR\II_SEMESTR\Multiscale_modeling\Laborki\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.Properties.Resources.resources
+D:\AGH\1_ZAJEC_MGR\II_SEMESTR\Multiscale_modeling\Laborki\Multiscale_Reprot2\MM2\obj\Debug\MM2.csproj.GenerateResource.Cache
+C:\Users\Dawidziu\Documents\Visual Studio 2013\Projects\Multiscale_Reprot2\Multiscale_Reprot2\MM2\bin\Debug\MultiscaleModelling1.exe.config
+C:\Users\Dawidziu\Documents\Visual Studio 2013\Projects\Multiscale_Reprot2\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.exe
+C:\Users\Dawidziu\Documents\Visual Studio 2013\Projects\Multiscale_Reprot2\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.pdb
+C:\Users\Dawidziu\Documents\Visual Studio 2013\Projects\Multiscale_Reprot2\Multiscale_Reprot2\MM2\bin\Debug\MultiscaleModelling1.exe
+C:\Users\Dawidziu\Documents\Visual Studio 2013\Projects\Multiscale_Reprot2\Multiscale_Reprot2\MM2\bin\Debug\MultiscaleModelling1.pdb
+C:\Users\Dawidziu\Documents\Visual Studio 2013\Projects\Multiscale_Reprot2\Multiscale_Reprot2\MM2\obj\Debug\MM2.csprojResolveAssemblyReference.cache
+C:\Users\Dawidziu\Documents\Visual Studio 2013\Projects\Multiscale_Reprot2\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.MultiscaleModelling.resources
+C:\Users\Dawidziu\Documents\Visual Studio 2013\Projects\Multiscale_Reprot2\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.Properties.Resources.resources
+C:\Users\Dawidziu\Documents\Visual Studio 2013\Projects\Multiscale_Reprot2\Multiscale_Reprot2\MM2\obj\Debug\MM2.csproj.GenerateResource.Cache
+C:\Users\JakubKaramański\Desktop\Multiscale_Reprot2\MM2\bin\Debug\MultiscaleModelling1.exe.config
+C:\Users\JakubKaramański\Desktop\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.exe
+C:\Users\JakubKaramański\Desktop\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.pdb
+C:\Users\JakubKaramański\Desktop\Multiscale_Reprot2\MM2\bin\Debug\MultiscaleModelling1.exe
+C:\Users\JakubKaramański\Desktop\Multiscale_Reprot2\MM2\bin\Debug\MultiscaleModelling1.pdb
+C:\Users\JakubKaramański\Desktop\Multiscale_Reprot2\MM2\obj\Debug\MM2.csprojResolveAssemblyReference.cache
+C:\Users\JakubKaramański\Desktop\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.MultiscaleModelling.resources
+C:\Users\JakubKaramański\Desktop\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.Properties.Resources.resources
+C:\Users\JakubKaramański\Desktop\Multiscale_Reprot2\MM2\obj\Debug\MM2.csproj.GenerateResource.Cache
+C:\Users\JakubKaramański\Desktop\Studia\Multiscale_Reprot2\MM2\bin\Debug\MultiscaleModelling1.exe.config
+C:\Users\JakubKaramański\Desktop\Studia\Multiscale_Reprot2\MM2\bin\Debug\MultiscaleModelling1.exe
+C:\Users\JakubKaramański\Desktop\Studia\Multiscale_Reprot2\MM2\bin\Debug\MultiscaleModelling1.pdb
+C:\Users\JakubKaramański\Desktop\Studia\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.MultiscaleModelling.resources
+C:\Users\JakubKaramański\Desktop\Studia\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.Properties.Resources.resources
+C:\Users\JakubKaramański\Desktop\Studia\Multiscale_Reprot2\MM2\obj\Debug\MM2.csproj.GenerateResource.Cache
+C:\Users\JakubKaramański\Desktop\Studia\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.exe
+C:\Users\JakubKaramański\Desktop\Studia\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.pdb
+C:\Users\JakubKaramański\Desktop\Studia\Multiscale_Reprot2\MM2\obj\Debug\MM2.csprojResolveAssemblyReference.cache
+C:\Users\JakubKaramański\Desktop\Studia\MM\Multiscale_Reprot2\MM2\bin\Debug\MultiscaleModelling1.exe.config
+C:\Users\JakubKaramański\Desktop\Studia\MM\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.exe
+C:\Users\JakubKaramański\Desktop\Studia\MM\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.pdb
+C:\Users\JakubKaramański\Desktop\Studia\MM\Multiscale_Reprot2\MM2\bin\Debug\MultiscaleModelling1.exe
+C:\Users\JakubKaramański\Desktop\Studia\MM\Multiscale_Reprot2\MM2\bin\Debug\MultiscaleModelling1.pdb
+C:\Users\JakubKaramański\Desktop\Studia\MM\Multiscale_Reprot2\MM2\obj\Debug\MM2.csprojResolveAssemblyReference.cache
+C:\Users\JakubKaramański\Desktop\Studia\MM\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.MultiscaleModelling.resources
+C:\Users\JakubKaramański\Desktop\Studia\MM\Multiscale_Reprot2\MM2\obj\Debug\MultiscaleModelling1.Properties.Resources.resources
+C:\Users\JakubKaramański\Desktop\Studia\MM\Multiscale_Reprot2\MM2\obj\Debug\MM2.csproj.GenerateResource.Cache
+C:\Users\JakubKaramański\Desktop\Studia\MM\Multiscale_Report\MM2\bin\Debug\MultiscaleModelling1.exe.config
+C:\Users\JakubKaramański\Desktop\Studia\MM\Multiscale_Report\MM2\obj\Debug\MultiscaleModelling1.exe
+C:\Users\JakubKaramański\Desktop\Studia\MM\Multiscale_Report\MM2\obj\Debug\MultiscaleModelling1.pdb
